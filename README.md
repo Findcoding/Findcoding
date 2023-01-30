@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <b>Languages and Tools:</b>
 </h3>
 <p align="left">
+	![amazon-web-services-2](https://user-images.githubusercontent.com/69085143/215531542-e3532d28-de23-4bf4-8897-1e33f77bbcf2.svg)
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 	<img src="https://github.com/bwks/vendor-icons-svg/blob/master/kubernetes.svg" alt="kubernetes" width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
@@ -45,6 +46,7 @@ Here are some ideas to get you started:
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
+
 
 </p>
 
