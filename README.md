@@ -25,8 +25,35 @@ Here are some ideas to get you started:
 </p>
 
 
+
+
 <h3 align="left">
-GitHub Stats
+<b>Languages and Tools:</b>
+</h3>
+<p align="left">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k8s/k8s-original.svg" alt="kubernetes" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="GIT" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MYSQL" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
+
+</p>
+
+
+
+
+
+
+
+
+<h3 align="left">
+<b>GitHub Stats:</b>
 </h3>
 <p>
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Findcoding&show_icons=true&locale=en&layout=flat&theme=highcontrast&title_color=42f584&hide_border=true&hide=jupyter%20notebook,processing" alt="Findcoding" />
@@ -34,7 +61,4 @@ GitHub Stats
 <p>&nbsp;
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=Findcoding&show_icons=true&theme=highcontrast&title_color=42f584&icon_color=f53f2b&hide_border=true&count_private=true&line_height=40" alt="Findcoding" />
 </p>
-
-## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Findcoding)](https://github.com/anuraghazra/github-readme-stats)
 
