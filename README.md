@@ -55,19 +55,19 @@ Here are some ideas to get you started:
 </h3>
 <p align="left">
 	<a href="https://twitter.com/bijendarprasad" target="_blank">
-		<img align="center" src="https://user-images.githubusercontent.com/69085143/215680452-ae4e226a-eb7a-4ba0-9631-088bd4e0ae8c.svg" alt="Twitter" height="30" width="40" />
+		<img align="center" src="https://user-images.githubusercontent.com/69085143/215680452-ae4e226a-eb7a-4ba0-9631-088bd4e0ae8c.svg" alt="Twitter" height="50" width="50" />
 	</a>
 	<a target="_blank" rel="noopener noreferrer" rel=" noopener noreferrer" target="_blank" href="mailto:prasadbijendar7@gmail.com" >
-		<img align="center" src="https://user-images.githubusercontent.com/69085143/215680894-f43d7da1-4b9e-4aa4-8a90-21efc7c6f01f.svg" alt="Gmail" height="30" width="40" >
+		<img align="center" src="https://user-images.githubusercontent.com/69085143/215680894-f43d7da1-4b9e-4aa4-8a90-21efc7c6f01f.svg" alt="Gmail" height="50" width="50" >
 		</a>
 	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/bijendar-prasad-8447861b9/" target="_blank">
-		<img align="center" src="https://user-images.githubusercontent.com/69085143/215680154-12423b57-4ea6-4652-a35e-47115de29562.svg" alt="Linkedin" height="30" width="40" />
+		<img align="center" src="https://user-images.githubusercontent.com/69085143/215680154-12423b57-4ea6-4652-a35e-47115de29562.svg" alt="Linkedin" height="50" width="50" />
 	</a>
 	<a target="_blank" rel="noopener noreferrer" href="https://leetcode.com/FiindingDeadlock/" target="_blank">
-		<img align="center" src="https://user-images.githubusercontent.com/69085143/215680661-e0f5c7e6-2f97-40f0-984d-02757b9a883d.png" alt="LeetCode" height="30" width="40" />
+		<img align="center" src="https://user-images.githubusercontent.com/69085143/215680661-e0f5c7e6-2f97-40f0-984d-02757b9a883d.png" alt="LeetCode" height="50" width="50" />
 	</a>
 	<a target="_blank" rel="noopener noreferrer" href="https://github.com/Findcoding" target="_blank">
-		<img align="center" src="https://user-images.githubusercontent.com/69085143/215683307-8181e79a-2e63-4a5a-9dda-abf8a9ec8dcb.svg" alt="GitHub" height="30" width="40" />
+		<img align="center" src="https://user-images.githubusercontent.com/69085143/215683307-8181e79a-2e63-4a5a-9dda-abf8a9ec8dcb.svg" alt="GitHub" height="50" width="50" />
 	</a>
 </p>
 
