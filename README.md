@@ -54,25 +54,25 @@ Here are some ideas to get you started:
 <b>Where to find me:</b>
 </h3>
 <p align="left">
-	<a href="https://twitter.com/bijendarprasad" target="_blank">
+	<a target="__blank" href="https://twitter.com/bijendarprasad" rel="noopener noreferrer">
 		<img align="center" src="https://user-images.githubusercontent.com/69085143/215680452-ae4e226a-eb7a-4ba0-9631-088bd4e0ae8c.svg" alt="Twitter" height="50" width="50" />
 	</a>
-	<a target="_blank" rel="noopener noreferrer" rel=" noopener noreferrer" target="_blank" href="mailto:prasadbijendar7@gmail.com" >
+	<a target="_blank" rel="noopener noreferrer" href="mailto:prasadbijendar7@gmail.com" >
 		<img align="center" src="https://user-images.githubusercontent.com/69085143/215680894-f43d7da1-4b9e-4aa4-8a90-21efc7c6f01f.svg" alt="Gmail" height="50" width="50" >
 		</a>
-	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/bijendar-prasad-8447861b9/" target="_blank">
+	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/bijendar-prasad-8447861b9/">
 		<img align="center" src="https://user-images.githubusercontent.com/69085143/215680154-12423b57-4ea6-4652-a35e-47115de29562.svg" alt="Linkedin" height="50" width="50" />
 	</a>
-	<a target="_blank" rel="noopener noreferrer" href="https://leetcode.com/FiindingDeadlock/" target="_blank">
+	<a target="_blank" rel="noopener noreferrer" href="https://leetcode.com/FiindingDeadlock/">
 		<img align="center" src="https://user-images.githubusercontent.com/69085143/215680661-e0f5c7e6-2f97-40f0-984d-02757b9a883d.png" alt="LeetCode" height="50" width="50" />
 	</a>
-	<a target="_blank" rel="noopener noreferrer" href="https://github.com/Findcoding" target="_blank">
+	<a target="_blank" rel="noopener noreferrer" href="https://github.com/Findcoding">
 		<img align="center" src="https://user-images.githubusercontent.com/69085143/215683307-8181e79a-2e63-4a5a-9dda-abf8a9ec8dcb.svg" alt="GitHub" height="50" width="50" />
 	</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://hub.docker.com/u/findcoding" target="_blank">
+		<img align="center" src="https://user-images.githubusercontent.com/69085143/215685037-19396c05-794a-4703-8ad6-a105487a96e9.svg" alt="Docker Hub" height="50" width="50" />
+	</a>
 </p>
-
-
-
 
 
 
