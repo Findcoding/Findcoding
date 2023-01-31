@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 </h3>
 <p align="left">
 	<img src="https://user-images.githubusercontent.com/69085143/215531542-e3532d28-de23-4bf4-8897-1e33f77bbcf2.svg" alt="aws" width="40" height="40"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
 	<img src="https://github.com/bwks/vendor-icons-svg/blob/master/kubernetes.svg" alt="kubernetes" width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
 	<img src="https://github.com/bwks/vendor-icons-svg/blob/master/django.svg" alt="django" width="40" height="40"/>
 	<img src="https://github.com/bwks/vendor-icons-svg/blob/master/linux.svg" alt="linux" width="40" height="40"/>
-	<img src="https://github.com/bwks/vendor-icons-svg/blob/master/nodejs.svg" alt="nodejs" width="40" height="40"/>
+	<img src="https://github.com/bwks/vendor-icons-svg/blob/master/nodejs.svg" alt="nodejs" width="50" height="50"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="GIT" width="40" height="40"/>
