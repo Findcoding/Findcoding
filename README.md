@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
 	<img src="https://github.com/bwks/vendor-icons-svg/blob/master/kubernetes.svg" alt="kubernetes" width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
-	![airflow_transparent](https://github.com/Findcoding/Findcoding/assets/69085143/e145f96c-10bf-4e2a-9235-b8f11e9ac93b)
+	<img src="https://github.com/Findcoding/Findcoding/assets/69085143/e145f96c-10bf-4e2a-9235-b8f11e9ac93b" alt="airflow" width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
 	<img src="https://github.com/bwks/vendor-icons-svg/blob/master/django.svg" alt="django" width="40" height="40"/>
 	<img src="https://github.com/bwks/vendor-icons-svg/blob/master/linux.svg" alt="linux" width="40" height="40"/>
