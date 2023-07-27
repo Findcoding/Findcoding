@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">
-  <b><i>An Indian student studying computer science</i></b>
+  <b><i>"In the world of DevOps, I'm the conductor of the software symphony! 🎵🎶"</i></b>
 </h3>
 <br>
 <p align="left">
