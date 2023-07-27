@@ -75,8 +75,6 @@ Here are some ideas to get you started:
 	</a>
 </p>
 
-
-
 <h3 align="left">
 <b>GitHub Stats:</b>
 </h3>
@@ -84,20 +82,18 @@ Here are some ideas to get you started:
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=findcoding&layout=donut-vertical&line_height=40" alt="Findcoding" />
 </p>
 <p>&nbsp;
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=Findcoding&show_icons=true&theme=buefy&title_color=42f584&icon_color=f53f2b&hide_border=false&include_all_commits=true&rank_icon=github&count_private=true&line_height=40" alt="Findcoding" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=Findcoding&show_icons=true&theme=buefy&title_color=42f584&icon_color=f53f2b&hide_border=false&include_all_commits=true&rank_icon=github&count_private=true&line_height=55" alt="Findcoding" />
+	
 </p>
 
 <br>
 
+
 <h3 align="left">
 <b>Top Repository:</b>
 </h3>
-<div class="container">
+<div class="container" style="display: flex">
 	
-[![Readme Card1](https://github-readme-stats.vercel.app/api/pin/?username=findcoding&repo=Android-Malware-Detection-System-Using-Machine-Learning&show_owner=true)](https://github.com/Findcoding/Android-Malware-Detection-System-Using-Machine-Learning)
-
-[![Readme Card2](https://github-readme-stats.vercel.app/api/pin/?username=findcoding&repo=iiitdrive&show_owner=true)](https://github.com/Findcoding/iiitdrive)
-
-[![Readme Card3](https://github-readme-stats.vercel.app/api/pin/?username=findcoding&repo=Movie-Recommender-System&show_owner=true)](https://github.com/Findcoding/Movie-Recommender-System)
+[![Readme Card1](https://github-readme-stats.vercel.app/api/pin/?username=findcoding&repo=Android-Malware-Detection-System-Using-Machine-Learning&show_owner=true&theme=flag-india)](https://github.com/Findcoding/Android-Malware-Detection-System-Using-Machine-Learning) [![Readme Card3](https://github-readme-stats.vercel.app/api/pin/?username=findcoding&repo=Movie-Recommender-System&show_owner=true&theme=vue)](https://github.com/Findcoding/Movie-Recommender-System)  [![Readme Card2](https://github-readme-stats.vercel.app/api/pin/?username=findcoding&repo=iiitdrive&show_owner=true&theme=solarized-light)](https://github.com/Findcoding/iiitdrive)
 
 </div>
