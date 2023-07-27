@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 <b>GitHub Stats:</b>
 </h3>
 <p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Findcoding&show_icons=true&locale=en&layout=flat&theme=highcontrast&title_color=42f584&hide_border=true&hide=jupyter%20notebook,processing" alt="Findcoding" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=findcoding&layout=donut" alt="Findcoding" />
 </p>
 <p>&nbsp;
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=Findcoding&show_icons=true&theme=highcontrast&title_color=42f584&icon_color=f53f2b&hide_border=true&count_private=true&line_height=40" alt="Findcoding" />
